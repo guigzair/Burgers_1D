@@ -4,6 +4,7 @@
 *.ipynb
 *.so
 logs/
+images/
 **/logs
 **/Data
 **/data
