@@ -1,0 +1,17 @@
+*.png
+*.jpg
+*.gif
+*.ipynb
+*.so
+logs/
+**/logs
+**/Data
+**/data
+**/cylinder_flow
+**/__pycache__
+**/.vscode
+**/Videos
+**/images
+**/.ipynb_checkpoints
+**/custom_training
+**/LaTeX
